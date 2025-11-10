@@ -1,0 +1,13 @@
+furo
+matplotlib
+myst-parser
+sphinx
+sphinx-autodoc-typehints
+sphinx-codeautolink
+sphinx-copybutton
+sphinx-inline-tabs
+sphinx-multiversion
+sphinxcontrib-mermaid
+sphinxcontrib-wavedrom
+sphinxext-opengraph
+wavedrom

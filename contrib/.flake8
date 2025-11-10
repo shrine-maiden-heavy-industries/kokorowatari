@@ -1,0 +1,20 @@
+[flake8]
+max-line-length = 120
+indent-size = 1
+statistics = True
+# NOTE(aki):
+# Comments are not allowed in the ignore block, see the `[tool.ruff.lint]` section in `pyproject.toml`
+# for what each lint is
+ignore =
+	E126,
+	E201,
+	E202,
+	E221,
+	E241,
+	E251,
+	E261,
+	E272,
+	E302,
+	E305,
+	W191,
+	W504

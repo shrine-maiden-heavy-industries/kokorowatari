@@ -1,0 +1,7 @@
+coverage:
+  precision: 3
+  range: 85..100
+  round: down
+
+comment:
+  layout: 'condensed_header, diff, condensed_files'
